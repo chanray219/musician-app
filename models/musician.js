@@ -1,4 +1,5 @@
 // model object with methods for store CRUD operations
+// open remote repo on VS Cdoe
 class Musician {
 
   constructor(store) {
